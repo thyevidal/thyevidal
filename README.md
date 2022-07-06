@@ -1,10 +1,12 @@
 ## Olá, me chamo Thierry. 😎
 
-<div>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" />
+### Cursando TI na UFRN, tambem faço o Curso Tecnico da Metróple Digital.
+
+<div align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" />
 </div>
 
-### Cursando TI na UFRN, tambem faço o Curso Tecnico da Metróple Digital.
+
 
 <div align="center">
   <a href="https://github.com/thyevidal">
