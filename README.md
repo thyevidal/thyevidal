@@ -1,6 +1,9 @@
 ## Olá, me chamo Thierry. 😎
 
 ### Cursando TI na UFRN, tambem faço o Curso Tecnico da Metróple Digital.
+&nbsp
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <!--
 **thyevidal/thyevidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
