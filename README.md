@@ -1,6 +1,6 @@
 ## Olá, me chamo Thierry. 😎
 
-### Cursando TI na UFRN, tambem faço o Curso Tecnico da Metróple Digital.
+### Cursando TI na UFRN e tambem o Curso tecnico Na Metropole Digital.
 
 <div align="center">
   <img alt="GIF" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" />
