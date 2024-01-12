@@ -1,6 +1,6 @@
-## Olá, me chamo Thierry. 😎
+## Olá, me chamo Thierry e sou Técnico em Desenvolvimento WEB 😎
 
-### Cursando TI na UFRN e tambem o Curso tecnico Na Metropole Digital.
+### Curso TI na UFRN.
 
 <div align="center">
   <img alt="GIF" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" />
